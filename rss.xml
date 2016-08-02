@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[News for all]]></title>
+        <description><![CDATA[News for all]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 02 Aug 2016 19:14:01 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[THE JESUS PHENONENOM]]></title>
+            <description><![CDATA[<article><h1>THE JESUS PHENONENOM</h1><p>JESUS REIGNS SUPREME</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8f96ff9-0905-4891-a0e2-94de7bf1ced9.png"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/b8f96ff9-0905-4891-a0e2-94de7bf1ced9.png</link>
+            <guid isPermaLink="false">a35b00f2-77b9-4a87-911e-7d160db3d2df</guid>
+            <pubDate>Tue, 02 Aug 2016 19:14:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
