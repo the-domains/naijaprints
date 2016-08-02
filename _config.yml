@@ -1,0 +1,14 @@
+layout_spectrum: 0.8742002912331372
+typography_spectrum: 0.8955807625316083
+color:
+  brandStrength: 0.3468276606872678
+  lightness: 0.3572072663810104
+  saturation: 0.2850883330684155
+  rhythmicContrast: 0.08987975679337978
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: naijaPrints
