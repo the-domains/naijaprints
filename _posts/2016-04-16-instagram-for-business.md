@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-08-02T19:03:34.236Z'
+datePublished: '2016-08-02T19:10:18.382Z'
 sourcePath: _posts/2016-04-16-instagram-for-business.md
 inFeed: true
 isBasedOnUrl: 'https://designschool.canva.com/blog/instagram-for-business/'
@@ -20,7 +20,7 @@ author:
   - name: Caitlin Jordan
     url: 'https://designschool.canva.com/blog/author/caitlinjordan/'
     avatar: {}
-dateModified: '2016-08-02T19:03:33.663Z'
+dateModified: '2016-08-02T19:10:18.252Z'
 title: Instagram for Business
 app_links: []
 publisher:
